@@ -4,7 +4,7 @@
   "artifacts": [
     {
       "report": {
-        "path": "EXPORT 1 PBIP.Report"
+        "path": "rapport-test-git.Report"
       }
     }
   ],
